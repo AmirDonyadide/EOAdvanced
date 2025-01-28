@@ -5,18 +5,6 @@ This repository contains the code, data, and analyses used for the study of wate
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Overview
 This project analyzes water dynamics in the coastal region of Venice, Italy, using NDWI (Normalized Difference Water Index) calculations. It highlights the significant increase in water coverage over the years, even during periods of low water levels, emphasizing the impact of environmental and climatic changes on this vital region.
 

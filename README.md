@@ -41,52 +41,13 @@ The key objectives of the study are:
 - Google Earth Engine Python API
 - Required Python libraries: `numpy`, `matplotlib`, `pandas`, `geemap`
 
-### Installation Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/water-area-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd water-area-analysis
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Authenticate with Google Earth Engine:
-   ```bash
-   earthengine authenticate
-   ```
-
----
-
-## Usage
-1. **Run the main analysis script**:
-   ```bash
-   python main_analysis.py
-   ```
-2. **Generate visualizations**:
-   Use `visualization_script.py` to create NDWI maps and trend charts.
-3. **Explore results**:
-   Outputs will include water coverage statistics, charts, and NDWI maps saved in the `output` folder.
 
 ---
 
 ## Data
-- **Satellite Data**: Landsat 7, 8, and 9 imagery accessed via Google Earth Engine.
+- **Satellite Data**: Sentinel 1 and 2 imagery accessed via Google Earth Engine.
 - **Region**: Eastern coast of Venice, Italy.
 - **Timeframe**: 2021–2024.
-
----
-
-## Results
-The study found:
-1. A steady increase in water area across the years.
-2. Seasonal variations in minimum and maximum water levels.
-3. Larger water coverage even on historically low water days in recent years.
-
-Visual results, including NDWI maps and statistical trends, can be found in the `results` folder.
 
 ---
 
@@ -102,6 +63,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact
 For questions or further information, please contact:
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+- **Name**: Amirhossein Donyadidegan
+- **Email**: [Amirhossein.donyadidegan@mail.polimi.it]
+- **GitHub**: [https://github.com/AmirDonyaidide](https://github.com/AmirDonyadide)
